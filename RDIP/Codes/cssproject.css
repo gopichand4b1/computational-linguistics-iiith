@@ -1,0 +1,155 @@
+﻿body{
+    
+background-color: pink;
+
+}
+
+#drop{
+    
+size: 25px;
+
+}
+
+.one{
+    
+padding-left: 20px;
+
+}
+
+.select{
+    
+padding: 6px 10px;
+    
+width: 200px;
+    
+background-color: aqua;
+    
+color: white;
+    
+font-size: 16px;
+
+}
+
+#para1{
+    
+font-size: 20px;
+    
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    
+color: darkblue;
+    font-weight: bolder;
+
+}
+
+#para2{
+    
+font-size: 17px;
+    
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    
+color: blue;
+    
+font-weight: bolder;
+    
+padding-bottom: 80px;
+
+}
+
+button {
+    
+width: 100px;
+    
+height: 30px;
+    
+margin: 5px;  
+    
+border-radius: 5px;
+    
+background-color: aqua;
+    
+color: aqua;
+
+}
+
+#disp2{
+    
+font-size: 20px;
+    
+color: blue;
+    
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    
+font-weight: bolder;
+    
+
+}
+
+#disp3{
+    
+font-size: 30px;
+    
+color: black;
+    
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    
+font-weight: bolder;
+
+}
+
+#dispcheck{
+    
+font-weight: bolder;
+
+}
+
+#reform {
+    
+width: 190px;
+    
+height: 27px;
+    
+font-size: 15px;
+    
+margin: 10px; 
+    
+border-radius: 2px;
+
+}
+
+#check{
+    
+width: 300px;
+    
+height: 30px;
+    
+font-size: 15px;
+    
+margin: 10px;
+
+}
+
+#getcrt{
+    
+width: 180px;
+    
+height: 30px;
+    
+font-size: 15px;
+    
+margin: 10px;
+
+}
+
+#getans{
+    
+font-size: 20px;
+    
+color: black;
+    
+line-height: 1.6;
+    
+font-weight: bolder;
+
+}
+
+
